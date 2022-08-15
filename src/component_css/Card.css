@@ -1,0 +1,19 @@
+.card{
+    height:300px;
+    width: 300px;
+    align-items: center;
+    background-color: #d0d2d6;
+    top: 10px;
+   display: inline-block;
+   margin: 10px;
+ 
+}
+.img{
+    width: 150px;
+    height: 150px;
+    object-fit: contain
+}
+.but{
+    margin: 10px  25px;
+    background-color: rgb(164, 164, 3);
+}
